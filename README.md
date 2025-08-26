@@ -14,18 +14,18 @@
 <p style="font-size: 20px;"> Olá a todos, me chamo Andrey </p>
 
 
-🗓️ Tenho 20 ans de idade;
+🗓️ Tenho 20 anos;
 
 📌 Moro na cidade de Gaspar (SC)
 
 📒 Estou seguindo o planejamento de estudos de [iniciante em programação da Alura](https://cursos.alura.com.br/formacao-programacao), mas em breve pretendo ingressar em uma universidade para aprofundar os meus conhecimentos;
 
-💭 Atualmente trabalho na empresa **DDX textil** como auxiliar de expedição, mas tenho o objetivo de desenvolver minhas abilidades e trabalhar como **DESENVOLVEDOR** algum dia;
+💭 Atualmente trabalho na empresa **DDX textil** como auxiliar de expedição, mas tenho o objetivo de desenvolver minhas habilidades e trabalhar como **DESENVOLVEDOR** algum dia;
 
-🥰 Minha paixão pelo mundo Dev começou dês de minha adolecencia, mas tive certeza que queria trabalhar com isso quando comecei a estudar sobre o mundo da programação
+🥰 Minha paixão pelo mundo Dev começou desde minha adolescência, mas tive certeza de que queria trabalhar com isso quando comecei a estudar sobre o mundo da programação;
 
-🤿 Ja participei da [Imersão Front-End](https://cursos.alura.com.br/user/andreygabrielben/immersion/certificate/10604) e da [Imersão Python: Do Excel à Análise de Dados](https://cursos.alura.com.br/user/andreygabrielben/immersion/certificate/19818) da Alura
+🤿 Já participei da [Imersão Front-End](https://cursos.alura.com.br/user/andreygabrielben/immersion/certificate/10604) e da [Imersão Python: Do Excel à Análise de Dados](https://cursos.alura.com.br/user/andreygabrielben/immersion/certificate/19818) da Alura;
 
-⚡ Meus hobies são Jogar, fazer lives na Twitch, treinar e assistir series, filmes e animes nas hoas vagas
+⚡ Meus hobbies são jogar, fazer lives na Twitch, treinar e assistir séries, filmes e animes nas horas vagas.
 
 ##
