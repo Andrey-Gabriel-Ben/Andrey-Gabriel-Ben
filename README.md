@@ -1,16 +1,26 @@
-## Hi there 👋
+<center>
 
-<!--
-**Andrey-Gabriel-Ben/Andrey-Gabriel-Ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Andrey Gabriel Ben <img loading="lazy" src="octocat-1756247977519.png" width=250><br>
 
-Here are some ideas to get you started:
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="font-size: 40px;"> Sobre mim: </p>
+
+<p style="font-size: 20px;"> Olá a todos, me chamo Andrey </p>
+
+
+🗓️ Tenho 20 ans de idade;
+
+📌 Moro na cidade de Gaspar (SC)
+
+📒 Estou seguindo o planejamento de estudos de [iniciante em programação da Alura](https://cursos.alura.com.br/formacao-programacao), mas em breve pretendo ingressar em uma universidade para aprofundar os meus conhecimentos;
+
+💭 Atualmente trabalho na empresa **DDX textil** como auxiliar de expedição, mas tenho o objetivo de desenvolver minhas abilidades e trabalhar como **DESENVOLVEDOR** algum dia;
+
+🥰 Minha paixão pelo mundo Dev começou dês de minha adolecencia, mas tive certeza que queria trabalhar com isso quando comecei a estudar sobre o mundo da programação
+
+🤿 Ja participei da [Imersão Front-End](https://cursos.alura.com.br/user/andreygabrielben/immersion/certificate/10604) e da [Imersão Python: Do Excel à Análise de Dados](https://cursos.alura.com.br/user/andreygabrielben/immersion/certificate/19818) da Alura
+
+⚡ Meus hobies são Jogar, fazer lives na Twitch, treinar e assistir series, filmes e animes nas hoas vagas
+
+##
