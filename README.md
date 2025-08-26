@@ -1,8 +1,13 @@
-<center>
+<div>
+    <img align="right" width="150px" style="margin-top:-15px" loading="lazy" src="octocat-1756247977519.png">
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    <h1 align="left">Andrey Gabriel Ben</h1>
+</div>
 
-# Andrey Gabriel Ben <img loading="lazy" src="octocat-1756247977519.png" width=250><br>
-
-</center>
 
 <p align="center" style="font-size: 40px;"> Sobre mim: </p>
 
