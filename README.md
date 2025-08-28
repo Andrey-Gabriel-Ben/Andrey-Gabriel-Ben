@@ -9,9 +9,9 @@
 </div>
 
 
-<p align="center" style="font-size: 40px;"> Sobre mim: </p>
+<h3 align="center" style="font-size: 40px;"> Sobre mim: </h3>
 
-<p style="font-size: 20px;"> Olá a todos, me chamo Andrey </p>
+### Olá a todos, me chamo Andrey </p>
 
 
 🗓️ Tenho 20 anos;
@@ -29,3 +29,15 @@
 ⚡ Meus hobbies são jogar, fazer lives na Twitch, treinar e assistir séries, filmes e animes nas horas vagas.
 
 ##
+
+### 🖥️ Tecnologias e Ferramentas:
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code"/></code>
+
+#
