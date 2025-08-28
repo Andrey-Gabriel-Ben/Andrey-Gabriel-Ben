@@ -60,3 +60,7 @@
 </div>
 
 #
+
+![Snake animation](https://github.com/Andrey-Gabriel-Ben/Andrey-Gabriel-Ben/blob/output/github-contribution-grid-snake.svg)
+
+#
