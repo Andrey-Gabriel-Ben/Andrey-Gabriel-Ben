@@ -41,3 +41,12 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code"/></code>
 
 #
+
+### Contatos:
+
+<div>
+<a href="https://www.instagram.com/andreygabrielben" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="@andreygabrielben"></a>
+<a href="https://www.twitch.tv/andragon_boy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" title="@andragon_boy"></a>
+<a href = "mailto:andreygabrielben@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="andreygabrielben@gmail.com"></a>
+<a href="https://www.linkedin.com/in/andrey-gabriel-ben-a22506367/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="andrey-gabriel-ben"></a>   
+</div>
